@@ -2,14 +2,15 @@ plugins:
   - jekyll-remote-theme
   
 remote_theme: coogie/oscailte
+title: CPYarger IT Services
+subtitle: 
+author: cpyarger
+email: cpyarger@gmail.com
+
 oscailte:
   posts_url: /_posts
   google_analytics: UA-36383351-1
   excerpts: true
-  title: CPYarger IT Services
-  subtitle: 
-  author: cpyarger
-  email: cpyarger@gmail.com
 
   disqus:
     shortname: cpyarger-com
