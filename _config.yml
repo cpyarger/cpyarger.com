@@ -7,7 +7,7 @@ oscailte:
   google_analytics: UA-36383351-1
   excerpts: true
   title: CPYarger IT Services
-  subtitle: Lighting Design, IT Support, General Handywork, Electronics design.
+  subtitle: 
   author: cpyarger
   email: cpyarger@gmail.com
 
@@ -21,6 +21,7 @@ oscailte:
     skip_to_main_content: "Skip to main content"
     x_minute_read: "$x$ minute read"
     recent_posts: "Recent posts"
+    hero_title: "Lighting Design, IT Support, General Handywork, Electronics design."
     view_all: "View all"
     read_full: "Read full"
     disqus_enable_javascript: 'Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.'
