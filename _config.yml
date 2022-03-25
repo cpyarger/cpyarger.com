@@ -3,8 +3,8 @@ plugins:
   
 remote_theme: coogie/oscailte
 oscailte:
-  posts_url:
-  google_analytics:
+  posts_url: _posts
+  google_analytics: UA-36383351-1
   social:
     twitter: cpyarger
     github: cpyarger
