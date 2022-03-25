@@ -2,3 +2,18 @@ plugins:
   - jekyll-remote-theme
   
 remote_theme: coogie/oscailte
+oscailte:
+  posts_url:
+  google_analytics:
+  social:
+    twitter: cpyarger
+    github: cpyarger
+    linkedin: cpyarger
+  strings:
+    skip_to_main_content: "Skip to main content"
+    x_minute_read: "$x$ minute read"
+    hero_title: "Welcome to CPYarger IT Services!<br> Lighting Design, IT Support, General Handywork, Electronics design."
+    recent_posts: "Recent posts"
+    view_all: "View all"
+    read_full: "Read full"
+    disqus_enable_javascript: 'Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.'
