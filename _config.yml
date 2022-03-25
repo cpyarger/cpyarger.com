@@ -5,6 +5,9 @@ remote_theme: coogie/oscailte
 oscailte:
   posts_url: _posts
   google_analytics: UA-36383351-1
+  excerpts: true
+  disqus:
+    shortname: cpyarger-com
   social:
     twitter: cpyarger
     github: cpyarger
